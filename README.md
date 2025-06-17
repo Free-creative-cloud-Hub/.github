@@ -1,7 +1,7 @@
 # 🎨 Creative Cloud 2025 Creative Hub  
 
 ![Creative Cloud 2025 Banner](https://sc.edu/study/colleges_schools/cic/images/news/interior_banner/2021-2022/adobe_web.png)  
-*Placeholder for Creative Cloud 2025 software image – replace with actual banner for maximum appeal!*  
+ 
 
 **Description**: Unleash your creativity with **Adobe Creative Cloud 2025**, a premium suite for design, video, and photography! This repository offers tutorials, resources, and tips to explore Creative Cloud’s powerful tools across Photoshop, Illustrator, Premiere Pro, and more. Start with accessible creative resources and join our vibrant community of artists in 2025!  
 
